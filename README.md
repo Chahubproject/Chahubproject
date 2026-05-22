@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chahubproject
-- 👀 I’m interested in data, AI engineering.
+- 👀 I’m interested in data, AI, engineering.
 - 🌱 I’m currently learning R and Python for Data Science
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 How to reach me: cwnyawira@gmail.com
